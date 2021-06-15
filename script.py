@@ -11,7 +11,7 @@ See <i>/help</i> for commands and more details.</b>
 
     HELP_MSG = """
 <i>I am Not For u 🙄</i>
-
+InlineKeyboardButton("CLOSE", callback_data="close_data"),
 
 
 
