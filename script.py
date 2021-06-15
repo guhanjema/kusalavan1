@@ -5,7 +5,7 @@ class Script(object):
 I was produced to the TamilTentkotta Group.
 Anyway, the start has not been hit. Subscribe to our official channel below.
                    
-Join Now ➟ Group ♻️ @Tentkottagroup
+Join Now ➟ Group @Tentkottagroup
       
 </b>
 """
@@ -20,7 +20,7 @@ HELP_MSG = """
 """
 
 
-ABOUT_MSG = """⭕️<b>My Name :Thalapathy Filter Bot</b>
+     ABOUT_MSG = """⭕️<b>My Name :Thalapathy Filter Bot</b>
 
 ⭕️<b>Creater :</b> @Vip_offical    
 
