@@ -4,14 +4,12 @@ class Script(object):
 
 I was produced to the TamilTentkotta Group.
 Anyway, the start has not been hit. Subscribe to our official channel below.
-                    InlineKeyboardButton("Channel📜", url="https://t.me/tt_linkz"),
-                    InlineKeyboardButton("Group ♻️", url="https://t.me/Tentkottagroup")
+                   
+Join Now ➟ Group ♻️ @Tentkottagroup
       
 </b>
 """
 
-
-    HELP_MSG = """
 <i>I am Not For u 🙄</i>
 
 
