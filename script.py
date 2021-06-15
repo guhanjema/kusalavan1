@@ -20,7 +20,7 @@ HELP_MSG = """
 """
 
 
-     ABOUT_MSG = """⭕️<b>My Name :Thalapathy Filter Bot</b>
+     ABOUT_MSG = ⭕️<b>My Name :Thalapathy Filter Bot</b>
 
 ⭕️<b>Creater :</b> @Vip_offical    
 
