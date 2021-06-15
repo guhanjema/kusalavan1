@@ -16,7 +16,7 @@ Anyway, the start has not been hit. Subscribe to our official channel below.
 
     HELP_MSG = """
 <i>I am Not For u 🙄</i>
-InlineKeyboardButton("CLOSE", callback_data="close_data"),
+
 
 
 
