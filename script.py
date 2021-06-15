@@ -1,9 +1,14 @@
 lass Script(object):
 
     START_MSG = """<b>Hy {},
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
-See <i>/help</i> for commands and more details.</b>
+Hy ✯ Thalapathy ✯,
+
+I was produced to the TamilTentkotta Group.
+Anyway, the start has not been hit. Subscribe to our official channel below.
+                   
+Join Now ➟ Group ♻️ @Tentkottagroup
+
+<i>/help</i> for commands and more details.</b>
 """
 
 
